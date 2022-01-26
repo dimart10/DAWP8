@@ -6,3 +6,4 @@ Práctica 8 de DAW 2021-2022
 - EstudianteB
 ## Cambios realizados
 - Hemos incorporado la página de registro
+- Añadida página de registro
